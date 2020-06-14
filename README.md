@@ -1,4 +1,4 @@
-# Telecom-Churn
+# Telecom-Churn-Prediction
 Objective: A telecom company wanted to know if a customer will churn or not
 
 • Solution: Designed Logistic Classification model to predict if customer will churn or not in future
